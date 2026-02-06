@@ -28,7 +28,7 @@ Random Coding Language Generator is a Python program that randomly selects a **r
 3. Run the program:
 
 ```bash
-python main.py
+python randLang.py
 
 ```
 
