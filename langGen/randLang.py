@@ -39,7 +39,6 @@ def mainMenu():
         return choice
     else:
         print("Exiting program.")
-        break
 
 # RCLG Program
 def RCLG(choice):
