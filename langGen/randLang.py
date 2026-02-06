@@ -57,7 +57,7 @@ def RCLG(choice):
     elif choice == 2:
         print(linecache.getline('ideas.txt', random.randint(42, 87)))
     else:
-        print(linecache.getline('ideas.txt', random.randint(0, 43)))
+        print(linecache.getline('ideas.txt', random.randint(4, 43)))
 
 
 match mainMenu():
