@@ -1,0 +1,131 @@
+====================
+BEGINNER PROJECTS (1–40)
+====================
+1. Hello World Variations
+2. Simple Calculator
+3. Number Guessing Game
+4. To-Do List (CLI)
+5. Temperature Converter
+6. Unit Converter
+7. Random Quote Generator
+8. Dice Rolling Simulator
+9. Password Generator
+10. Palindrome Checker
+11. Word Counter
+12. Basic File Reader
+13. Basic File Writer
+14. Countdown Timer
+15. Simple Alarm Clock
+16. Rock Paper Scissors
+17. Random Name Generator
+18. Tip Calculator
+19. Mad Libs Generator
+20. Email Validator
+21. Username Generator
+22. Simple Quiz Game
+23. Currency Converter (static rates)
+24. Prime Number Checker
+25. Fibonacci Sequence Generator
+26. Factorial Calculator
+27. Simple Login System (no encryption)
+28. Text-Based Menu System
+29. Random Color Generator
+30. Simple Stopwatch
+31. Calculator with History
+32. Basic Address Book
+33. Random Joke Generator
+34. Word Scrambler
+35. Even/Odd Number Checker
+36. Random Story Generator
+37. Text Formatter
+38. Simple Notes App
+39. Random Password Strength Checker
+40. Multiplication Table Generator
+
+====================
+INTERMEDIATE PROJECTS (41–80)
+====================
+41. To-Do List with File Persistence
+42. Contact Management System
+43. Password Manager (basic encryption)
+44. Text-Based RPG Game
+45. File Backup Tool
+46. URL Shortener (local)
+47. Chat Application (CLI)
+48. Quiz Game with Scores
+49. Flashcard App
+50. Weather App (API optional)
+51. Simple Web Server
+52. Log File Analyzer
+53. Command-Line Argument Parser
+54. Banking System Simulation
+55. Game Scoreboard System
+56. Note-Taking App with Search
+57. Task Scheduler
+58. Random Maze Generator
+59. File Compression Tool
+60. Text Encryption / Decryption Tool
+61. Hangman Game
+62. Tic-Tac-Toe
+63. Inventory Management System
+64. URL Status Checker
+65. Multiplayer Turn-Based Game (local)
+66. Password Cracking Simulator (educational)
+67. Simple Version Control System
+68. Quiz Generator Tool
+69. Chatbot (rule-based)
+70. Markdown Parser
+71. URL Scraper
+72. Simple Package Manager
+73. Game Save System
+74. Sorting Algorithm Visualizer
+75. Configuration File Parser
+76. Text-Based Adventure Engine
+77. Random Level Generator
+78. Plugin-Based Application
+79. File Search Utility
+80. Time Tracking Application
+
+====================
+ADVANCED PROJECTS (81–120)
+====================
+81. Full Authentication System
+82. Multiplayer Networked Game
+83. Programming Language Interpreter
+84. Custom Scripting Language
+85. Database Management System
+86. Distributed Chat Server
+87. Virtual File System
+88. Game Engine Core
+89. Command-Line Shell
+90. Text Editor
+91. Compiler Frontend
+92. Search Engine Prototype
+93. Real-Time Collaboration Tool
+94. Encryption Library
+95. Peer-to-Peer File Sharing App
+96. Operating System Simulator
+97. Artificial Life Simulation
+98. Plugin-Based Game Engine
+99. AI-Powered Chatbot
+100. Recommendation System
+101. Network Packet Analyzer
+102. Virtual Machine
+103. Procedural World Generator
+104. Physics Simulation Engine
+105. Secure Password Vault
+106. Custom Database Query Language
+107. Multiplayer Lobby System
+108. Blockchain Simulator
+109. Version Control System (Git-like)
+110. Distributed Task Scheduler
+111. Game AI Framework
+112. Custom Build System
+113. Real-Time Strategy Game Logic
+114. Static Code Analyzer
+115. Programming Language Transpiler
+116. Log Aggregation System
+117. Procedural Story Generator
+118. Data Serialization Framework
+119. Multiplayer Matchmaking System
+120. Modular Application Framework
