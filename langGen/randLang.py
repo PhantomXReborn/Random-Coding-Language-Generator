@@ -50,7 +50,6 @@ def RCLG(choice):
 
     print("Language: ")
     print(linecache.getline('codeLang.txt', random.randint(0, lines1-1)))
-    print("\n\n")
 
     print("Code Idea: ")
     if choice == 3:
